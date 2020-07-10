@@ -12,5 +12,5 @@ spring:
 spring:
   profiles: test #测试环境
   application:
-    name: microservice-config-wigger-dev
+    name: microservice-config-wigger-test
 #保存为utf-8格式
